@@ -6,6 +6,7 @@ Stock markets are always known for their volatile nature. There are several fact
 
 ## Screenshot of the Webpage :
 
+![Screen Shot 2022-07-21 at 9 53 14 PM](https://user-images.githubusercontent.com/105108880/180264766-a096adfe-b45c-42f9-ac44-14eb6d1bc7bb.png)
 
 
 
